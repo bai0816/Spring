@@ -11,4 +11,5 @@ public class Hello {
     private String str;
     private String name;
     private int age;
+    private String sex;
 }
