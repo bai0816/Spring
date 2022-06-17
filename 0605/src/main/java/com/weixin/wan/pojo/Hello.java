@@ -12,4 +12,8 @@ public class Hello {
     private String name;
     private int age;
     private String sex;
+
+
+    private String bai;
+    private String yang;
 }
